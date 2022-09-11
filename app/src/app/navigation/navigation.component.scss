@@ -6,13 +6,15 @@
         float: left; 
         color: #f2f2f2;
         text-align: center;
-        padding: 14px 30px;
+        padding: 14px 20px;
         text-decoration: none;
         font-size: 27px;
+        margin-left: 10px;
     }
 
     .right-links {
         float: right;
+        margin-right: 25px;
 
         .nav-link {
             float: right;
@@ -25,8 +27,7 @@
         }
 
         .nav-link:hover {
-            background-color: #ffe3e8;
-            color: black;
+            color: #ff4081;
         }
     }
     
